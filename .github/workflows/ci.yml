@@ -3,6 +3,7 @@ name: ci
 on:
   push:
     branches:
+<BR>
       - master
       - develop
       - '4.x'
